@@ -1,0 +1,12 @@
+.para{
+    
+    padding-top:50px;
+    text-align: center;
+    border-color: black;
+    border-radius: 180px;
+    border-style: solid;
+    font-size: 30px;
+    background-color: rgb(136, 205, 245);
+    border-bottom-width: 30px;
+    border-top-width: 30px;
+}
